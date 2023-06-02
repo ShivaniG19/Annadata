@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Annadata</string>
+    <string name="app_title">अन्नदाता</string>
+    <string name="tag_line">अन्नदाता सुखी भव</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="not_registered_sign_up">Not Registered? Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="already_registered_sign_in">Already Registered? Sign In</string>
+    <string name="my_profile">My Profile</string>
+    <string name="donate">Donate</string>
+    <string name="request">Request</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="user_profile">User Profile</string>
+    <string name="exit_message">Are you sure you want to Exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="update">Update</string>
+    <string name="successful_donations">Successful Donations</string>
+    <string name="my_donations">My Donations</string>
+    <string name="new_donation">New Donation</string>
+    <string name="number_of_people">Number of People</string>
+    <string name="post_donation">Post Donation</string>
+    <string name="veg">Veg</string>
+    <string name="content">Content</string>
+    <string name="region">Region(City)</string>
+    <string name="non_veg">Non Veg</string>
+    <string name="mark_as_completed">Mark as Completed</string>
+    <string name="edit">Edit</string>
+    <string name="post_time">Post Time :</string>
+    <string name="post_date">Post Date :</string>
+    <string name="edit_donation">Edit Donation</string>
+    <string name="my_requests">My Requests</string>
+    <string name="view_donations">View Donations</string>
+    <string name="new_request">New Request</string>
+    <string name="edit_request">Edit Request</string>
+    <string name="post_request">Post Request</string>
+    <string name="donor">Donor : </string>
+    <string name="date">Date : </string>
+    <string name="view">View</string>
+    <string name="view_details">View Details</string>
+    <string name="donation_details">Donation Details</string>
+    <string name="time">Time :</string>
+    <string name="user_details">User Details</string>
+    <string name="name">Name :</string>
+    <string name="successful_orders">Successful Orders :</string>
+    <string name="call">Call</string>
+</resources>
